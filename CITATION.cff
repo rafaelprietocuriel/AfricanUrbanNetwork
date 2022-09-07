@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Detecting cities with high intermediacy in the
+  African urban network
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Rafael
+    family-names: Prieto-Curiel
+    email: prieto-curiel@csh.ac.at
+    affiliation: Complexity Science Hub Vienna
+    orcid: 'https://orcid.org/0000-0002-0738-2633'
+  - given-names: Abel
+    family-names: Schumann
+  - given-names: Inhoi
+    family-names: Heo
+  - given-names: Philipp
+    family-names: Heinrigs
