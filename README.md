@@ -12,3 +12,11 @@ Information about the road infrastructure was obtained from https://www.openstre
 
 3 - Table_summary
 Contains a detailed description of all variables in both tables.
+
+
+The repository also contains the code used to process OpenStreetMap data and obtain the complete network.
+
+# Citation
+
+Please, if you use this work, cite it as:
+Prieto-Curiel, R., Schumann, A., Heo, I., Heinrigs, P. Detecting cities with high intermediacy in the African urban network, Computers, Environment and Urban Systems (2022).
